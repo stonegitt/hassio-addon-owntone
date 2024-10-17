@@ -1,6 +1,6 @@
 ---
 name: Owntone server
-version: 1.0.0
+version: 1.0.1
 slug: owntone-server
 description: "Adds owntone capabilities to Home Assistant"
 url: https://github.com/Ulrar/hassio-addons/tree/master
